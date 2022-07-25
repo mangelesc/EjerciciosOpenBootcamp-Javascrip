@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio01-introduccion",
+  "version": "1.0.0",
+  "description": "intro a Javascrip con Node",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio01": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Ángeles",
+  "license": "ISC"
+}
