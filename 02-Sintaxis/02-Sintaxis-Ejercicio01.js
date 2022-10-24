@@ -2,7 +2,7 @@
 //Crea un nuevo archivo JS que contenga una lista con los siguientes elementos:
 
 //Nombre (String)
-const nombre = "María Ángeles Córdoba";
+const nombre = "María Ángeles";
 
 //Edad (number)
 let edad = 30;
